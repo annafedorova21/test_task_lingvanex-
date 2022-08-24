@@ -8,14 +8,3 @@ with open('file.txt') as file:
             for rus_word in new_line_list[1]:
                 eng.write(eng_word + "\n")
                 rus.write(rus_word + '\n')
-
-
-
-
-
-
-
-
-
-
-
